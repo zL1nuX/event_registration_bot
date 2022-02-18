@@ -1,11 +1,11 @@
 # токен бота - можно получить в @BotFather в telegram
-token = "1804100157:AAGlU0VDoy0I1g4RokdLqBxkd4iqmBlWNMw"
+token = ""
 
 # токен яндекс.геокодера
 # можно получить на https://developer.tech.yandex.ru/services/
 # нужно активировать JavaScript API и HTTP Геокодер - бесплатный тариф с ограничениями
 # пройти анкету небольшую
-yandex_token = "effd3c32-cb80-41ce-a5d7-211dd7dff879"
+yandex_token = ""
 
 # возможное количество участников в команде включительно (от и до)
 MIN_PARTICIPANTS, MAX_PARTICIPANTS = 3, 16
